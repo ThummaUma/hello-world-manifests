@@ -1,6 +1,6 @@
 image:
   repository: umathumma/hello-world-app
-  tag: "latest"
+  tag: "2"
   pullPolicy: IfNotPresent
 
 replicaCount: 2
